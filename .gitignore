@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+line_plot.png
+bar_plot.png
+box_plot.png
